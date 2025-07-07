@@ -3,3 +3,4 @@ graphic : [gimp](https://www.gimp.org/) [inkscape](https://inkscape.org) [scribu
 
 audio : [ardour](https://ardour.org/)
 
+office : [libreoffice](https://www.libreoffice.org/)
