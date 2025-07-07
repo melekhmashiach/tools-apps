@@ -11,3 +11,5 @@ code : [code](https://code.visualstudio.com/)
 
 
 # tools
+
+chat : [slack](https://slack.com/)
