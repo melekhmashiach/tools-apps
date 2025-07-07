@@ -4,7 +4,7 @@ chat : [slack](https://slack.com/)
 # apps
 graphic : [gimp](https://www.gimp.org/) [inkscape](https://inkscape.org) [blender](https://www.blender.org/)
 
-audio : [ardour](https://ardour.org/)
+audio : [ardour](https://ardour.org/) [audacity](https://www.audacityteam.org/)
 
 office : [libreoffice](https://www.libreoffice.org/)
 
