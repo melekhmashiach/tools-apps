@@ -1,2 +1,2 @@
 # tools-apps
-tools and apps
+[gimp](https://www.gimp.org/)
