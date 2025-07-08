@@ -3,6 +3,13 @@ chat : [slack](https://slack.com/)
 
 stream : [obsproject](https://obsproject.com/)
 
+# coordination system
+
+[stellarium-web](https://stellarium-web.org)
+
+[stellarium](https://stellarium.org)
+
+[celestiaproject](https://celestiaproject.space)
 
 # apps
 graphic : [gimp](https://www.gimp.org/) [inkscape](https://inkscape.org) [blender](https://www.blender.org/)
