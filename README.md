@@ -7,6 +7,8 @@ stream : [obsproject](https://obsproject.com/)
 # apps
 graphic : [gimp](https://www.gimp.org/) [inkscape](https://inkscape.org) [blender](https://www.blender.org/)
 
+video : [kdenlive](https://kdenlive.org/)
+
 audio : [ardour](https://ardour.org/) [audacity](https://www.audacityteam.org/)
 
 office : [libreoffice](https://www.libreoffice.org/)
@@ -15,4 +17,4 @@ Raspberry pi : [pi-apps](https://pi-apps.io/)
 
 code : [code](https://code.visualstudio.com/)
 
-browser : [vivaldi](https://vivaldi.com)
+browser : [vivaldi](https://vivaldi.com) duckduckgo
