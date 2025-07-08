@@ -16,7 +16,7 @@ graphic : [gimp](https://www.gimp.org/) [inkscape](https://inkscape.org) [blende
 
 video : [kdenlive](https://kdenlive.org/)
 
-audio : [ardour](https://ardour.org/) [audacity](https://www.audacityteam.org/)
+audio : [ardour](https://ardour.org/) [audacity](https://www.audacityteam.org/) [mixxx](https://mixxx.org/)
 
 office : [libreoffice](https://www.libreoffice.org/)
 
