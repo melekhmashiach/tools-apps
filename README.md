@@ -1,6 +1,9 @@
 # tools
 chat : [slack](https://slack.com/)
 
+stream : [obsproject](https://obsproject.com/)
+
+
 # apps
 graphic : [gimp](https://www.gimp.org/) [inkscape](https://inkscape.org) [blender](https://www.blender.org/)
 
