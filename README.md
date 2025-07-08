@@ -14,3 +14,5 @@ office : [libreoffice](https://www.libreoffice.org/)
 Raspberry pi : [pi-apps](https://pi-apps.io/)
 
 code : [code](https://code.visualstudio.com/)
+
+browser : [vivaldi](https://vivaldi.com)
