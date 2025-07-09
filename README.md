@@ -26,6 +26,9 @@ code : [code](https://code.visualstudio.com/)
 
 browser : [vivaldi](https://vivaldi.com) duckduckgo
 
+player : [vlc](https://www.videolan.org/vlc/)
+
+
 # trade
 
 [tradingview](https://www.tradingview.com)
