@@ -34,3 +34,6 @@ tv : [kodi](https://kodi.tv)
 
 [tradingview](https://www.tradingview.com)
 
+# pw managment 
+
+[keepassxc](https://keepassxc.org)
