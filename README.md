@@ -37,3 +37,7 @@ tv : [kodi](https://kodi.tv)
 # pw managment 
 
 [keepassxc](https://keepassxc.org)
+
+# content blocker
+
+uBlock Origin - Free, open-source ad content blocker.
